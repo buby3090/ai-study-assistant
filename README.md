@@ -1,4 +1,4 @@
-# AfricanaAI Study Assistant
+# AI Study Assistant
 
 ## Overview
 
