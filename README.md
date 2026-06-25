@@ -2,7 +2,7 @@
 
 ## Overview
 
-AfricanaAI Study Assistant is an AI-powered educational application designed to help students learn topics in Computer Science, Artificial Intelligence, Data Science, and Programming. The application provides simplified explanations, key concept summaries, practice quiz questions, and personalized learning recommendations to support effective self-study.
+AI Study Assistant is an AI-powered educational application designed to help students learn topics in Computer Science, Artificial Intelligence, Data Science, and Programming. The application provides simplified explanations, key concept summaries, practice quiz questions, and personalized learning recommendations to support effective self-study.
 
 ## Problem Statement
 
